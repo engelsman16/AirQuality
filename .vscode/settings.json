@@ -5,6 +5,7 @@
         "task.h": "c",
         "esp_log.h": "c",
         "esp_tls_wolfssl.h": "c",
-        "event_groups.h": "c"
+        "event_groups.h": "c",
+        "i2c_master.h": "c"
     }
 }
